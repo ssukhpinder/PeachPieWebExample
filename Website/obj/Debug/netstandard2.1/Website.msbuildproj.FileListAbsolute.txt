@@ -1,0 +1,7 @@
+E:\medium\PeachPieWebExample\Website\bin\Debug\netstandard2.1\PeachPieWebExample.deps.json
+E:\medium\PeachPieWebExample\Website\bin\Debug\netstandard2.1\PeachPieWebExample.dll
+E:\medium\PeachPieWebExample\Website\bin\Debug\netstandard2.1\PeachPieWebExample.pdb
+E:\medium\PeachPieWebExample\Website\obj\Debug\netstandard2.1\Website.msbuildprojAssemblyReference.cache
+E:\medium\PeachPieWebExample\Website\obj\Debug\netstandard2.1\Website.msbuildproj.CoreCompileInputs.cache
+E:\medium\PeachPieWebExample\Website\obj\Debug\netstandard2.1\PeachPieWebExample.dll
+E:\medium\PeachPieWebExample\Website\obj\Debug\netstandard2.1\PeachPieWebExample.pdb

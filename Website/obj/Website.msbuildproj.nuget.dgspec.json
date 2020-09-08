@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\medium\\PeachPieWebExample\\Website\\Website.msbuildproj": {}
+  },
+  "projects": {
+    "E:\\medium\\PeachPieWebExample\\Website\\Website.msbuildproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\medium\\PeachPieWebExample\\Website\\Website.msbuildproj",
+        "projectName": "PeachPieWebExample",
+        "projectPath": "E:\\medium\\PeachPieWebExample\\Website\\Website.msbuildproj",
+        "packagesPath": "C:\\Users\\Sukhpinder Singh\\.nuget\\packages\\",
+        "outputPath": "E:\\medium\\PeachPieWebExample\\Website\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sukhpinder Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Peachpie.App": {
+              "target": "Package",
+              "version": "[1.0.0-preview1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
